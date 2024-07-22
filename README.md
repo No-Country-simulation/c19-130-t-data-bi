@@ -14,7 +14,6 @@ Este proyecto se enfoca en el análisis de un dataset de ventas de Adidas entre 
 - **Power BI**
 - **Python**
 - **Jira**
-- **GitHub**
 
 ## Objetivo del Proyecto 🎯
 El objetivo es analizar las tendencias y patrones de ventas de Adidas en el periodo 2020-2021 para identificar factores clave que contribuyeron al aumento de las ventas en plataformas online. 
