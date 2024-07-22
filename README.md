@@ -4,8 +4,8 @@
 - **Nicolas Montenegro**
 - **Ricardo David Minhot**
 - **Carlos Garcia**
-- **Marvin**
-- **Mariano**
+- **Marvin Orozco**
+- **Mariano Baigorria**
 
 ## Contexto del Proyecto 📚
 Este proyecto se enfoca en el análisis de un dataset de ventas de Adidas entre 2020 y 2021, con el objetivo de entender el aumento de ventas de productos en plataformas online.
