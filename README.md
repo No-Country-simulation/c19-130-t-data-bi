@@ -22,8 +22,7 @@ El objetivo es analizar las tendencias y patrones de ventas de Adidas en el peri
 ## Metodología de Trabajo 🗂️
 1. **ETL (Extracción, Transformación y Carga)**: Procesamiento y limpieza de datos para preparar el dataset para el análisis.
 2. **EDA (Análisis Exploratorio de Datos)**: Exploración de los datos para descubrir patrones y anomalías.
-3. **Dashboard**: Creación de visualizaciones interactivas en Power BI para representar los hallazgos.
-4. **Modelo de Machine Learning**: Desarrollo de un modelo predictivo para anticipar tendencias futuras en ventas.
+3. **Dashboard**: Creación de visualizaciones interactivas en Power BI para representar los hallazgos
 
 ## Cronograma 📅
 El proyecto se desarrollará en un período de 5 semanas, estructurado en tres sprints:
