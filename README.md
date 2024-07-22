@@ -24,7 +24,7 @@ El objetivo es analizar las tendencias y patrones de ventas de Adidas en el peri
 3. **Dashboard**: Creación de visualizaciones interactivas en Power BI para representar los hallazgos
 
 ## Cronograma 📅
-El proyecto se desarrollará en un período de 5 semanas, estructurado en tres sprints:
+El proyecto se desarrollará en un período de 5 semanas, estructurado en sprints:
 
 ### Sprint 1: Preparación del Proyecto (2 semanas)
 - Elección del Dataset.
