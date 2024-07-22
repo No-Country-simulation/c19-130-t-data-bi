@@ -29,22 +29,14 @@ El objetivo es analizar las tendencias y patrones de ventas de Adidas en el peri
 El proyecto se desarrollará en un período de 5 semanas, estructurado en tres sprints:
 
 ### Sprint 1: Preparación del Proyecto (2 semanas)
-- Inicialización y documentación del data warehouse.
+- Elección del Dataset.
 - Establecimiento del stack tecnológico.
-- Implementación de la metodología SCRUM con reuniones diarias (daily stand-ups).
-- Definición de tareas puntuales, KPI's y diagrama de Gantt.
 - Asignación de roles y responsabilidades del equipo.
 
 ### Sprint 2: Ingeniería de Datos (1 semana)
 - Realización del proceso ETL.
 - Análisis Exploratorio de Datos (EDA).
-- Documentación del proceso con diagramas entidad-relación, diccionario de datos y workflow.
-
-### Sprint 3: Analítica de Datos y Machine Learning (2 semanas)
-- Diseño y desarrollo de dashboards en Power BI.
-- Creación y despliegue de un modelo de recomendación.
-- Documentación detallada del modelo, incluyendo ingeniería de características e informe de análisis.
-- Producción de un video del proyecto.
+- Visualizacion del dataset con diferentes variables.
 
 ## Contacto 📬
 Para más información o consultas sobre el proyecto, pueden contactarnos a través de nuestros perfiles de LinkedIn o correo electrónico.
