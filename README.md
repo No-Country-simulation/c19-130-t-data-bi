@@ -8,15 +8,16 @@
 - **Mariano Baigorria**
 
 ## Contexto del Proyecto 📚
-Este proyecto se enfoca en el análisis de un dataset de ventas de Adidas entre 2020 y 2021, con el objetivo de entender el aumento de ventas de productos en plataformas online.
+Este proyecto se enfoca en el análisis de un dataset de ventas de Adidas durante el 2020 en un contexto de pandemia con el objetivo de analizar las ventas de productos en modalidad Store, Outlet y On-line.
 
 ## Stack Tecnológico 🛠️
 - **Power BI**
 - **Python**
 - **Jira**
+- **Librerías Panda, Numpy, Matplotlib y Seaborn.
 
 ## Objetivo del Proyecto 🎯
-El objetivo es analizar las tendencias y patrones de ventas de Adidas en el periodo 2020-2021 para identificar factores clave que contribuyeron al aumento de las ventas en plataformas online. 
+El objetivo es analizar las tendencias y patrones de ventas de Adidas en el período 2020 para identificar factores clave que contribuyeron al aumento de las ventas en plataformas online. 
 
 ## Metodología de Trabajo 🗂️
 1. **ETL (Extracción, Transformación y Carga)**: Procesamiento y limpieza de datos para preparar el dataset para el análisis.
