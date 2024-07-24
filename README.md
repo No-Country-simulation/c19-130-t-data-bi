@@ -1,4 +1,4 @@
-# Proyecto E-Commerce: Análisis de Ventas Online 📈
+# Proyecto E-Commerce: Análisis de Ventas Adidas 2020  📈
 
 ## Equipo c19-130-t-data-bi 👥
 - **Nicolas Montenegro**
@@ -13,11 +13,11 @@ Este proyecto se enfoca en el análisis de un dataset de ventas de Adidas durant
 ## Stack Tecnológico 🛠️
 - **Power BI**
 - **Python**
-- **Jira**
+- **Jira** 
 - **Librerías Panda, Numpy, Matplotlib y Seaborn.**
 
 ## Objetivo del Proyecto 🎯
-El objetivo es analizar las tendencias y patrones de ventas de Adidas en el período 2020 para identificar factores clave que contribuyeron al aumento de las ventas en plataformas online. 
+Analizar los patrones y tendencias de ventas de Adidas USA durante el años 2020 a fin de identificar canales de venta de mayor volumen y elaborar un plan de mejoras o refuerzo para los próximos años.
 
 ## Metodología de Trabajo 🗂️
 1. **ETL (Extracción, Transformación y Carga)**: Procesamiento y limpieza de datos para preparar el dataset para el análisis.
@@ -36,6 +36,7 @@ El proyecto se desarrollará en un período de 5 semanas, estructurado en sprint
 - Realización del proceso ETL.
 - Análisis Exploratorio de Datos (EDA).
 - Visualizacion del dataset con diferentes variables.
+- Obtención de un dataset limpio para instrumentar análisis en Power Bi.
 
 ## Contacto 📬
 Para más información o consultas sobre el proyecto, pueden contactarnos a través de nuestros perfiles de LinkedIn o correo electrónico.
