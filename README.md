@@ -14,7 +14,7 @@ Este proyecto se enfoca en el análisis de un dataset de ventas de Adidas durant
 - **Power BI**
 - **Python**
 - **Jira**
-- **Librerías Panda, Numpy, Matplotlib y Seaborn.
+- **Librerías Panda, Numpy, Matplotlib y Seaborn.**
 
 ## Objetivo del Proyecto 🎯
 El objetivo es analizar las tendencias y patrones de ventas de Adidas en el período 2020 para identificar factores clave que contribuyeron al aumento de las ventas en plataformas online. 
