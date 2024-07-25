@@ -1,5 +1,7 @@
 ![Portada Github](https://github.com/user-attachments/assets/23ea9cda-b036-41c9-8fea-384fd33d0a6b)
 
+# Sobre Nosotros
+## Existen muchos inconvenientes para procesar datos de manera correcta, ya que las empresas dependen de ello, por eso, nuestro equipo brinda una solucion inteligente, agil y segura, para que las empresas tomen las mejores decisiones y mejorar su economia
 
 # Proyecto E-Commerce: Análisis de Ventas Adidas 2020  📈
 
