@@ -1,3 +1,6 @@
+![Portada Github](https://github.com/user-attachments/assets/23ea9cda-b036-41c9-8fea-384fd33d0a6b)
+
+
 # Proyecto E-Commerce: Análisis de Ventas Adidas 2020  📈
 
 ## Equipo c19-130-t-data-bi 👥
