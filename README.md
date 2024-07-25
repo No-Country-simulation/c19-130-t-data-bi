@@ -1,7 +1,7 @@
 ![Portada Github](https://github.com/user-attachments/assets/23ea9cda-b036-41c9-8fea-384fd33d0a6b)
 
 # Sobre Nosotros
-## Existen muchos inconvenientes para procesar datos de manera correcta, ya que las empresas dependen de ello, por eso, nuestro equipo brinda una solucion agil y segura, para aquellas empresas que desean ser mas exitosas eligiendo una decision inteligente.
+## El manejo correcto de datos es crucial para el éxito empresarial, pero a menudo presenta desafíos. Nuestra solución ofrece un proceso ágil y confiable para la gestión de datos, ayudando a empresas a tomar decisiones más inteligentes, para alcanzar mejores resultados.
 
 # Proyecto E-Commerce: Análisis de Ventas Adidas 2020  📈
 
